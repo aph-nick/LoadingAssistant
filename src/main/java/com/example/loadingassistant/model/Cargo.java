@@ -1,5 +1,6 @@
 package com.example.loadingassistant.model;
 
+import com.example.loadingassistant.enums.CargoType;
 import com.example.loadingassistant.model.util.Dimension;
 
 public class Cargo {
