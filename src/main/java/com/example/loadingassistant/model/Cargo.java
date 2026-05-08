@@ -2,10 +2,11 @@ package com.example.loadingassistant.model;
 
 import com.example.loadingassistant.model.util.Dimension;
 
-public class Load {
+public class Cargo {
     private Dimension dimension;
+    private CargoType type;
 
-    public Load(Dimension dimension) {
+    public Cargo(Dimension dimension) {
         this.dimension = dimension;
     }
 
